@@ -1,5 +1,6 @@
 ## 🙌 GitHub 기능 공부용 페이지입니다
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjinho255&show_icons=true&theme=radical)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlajinho0905)](https://solved.ac/rlajinho0905)
 ## ❓ EASYME.md가 뭐예요?
 - **EASYME.md**는 **<u>개발자가 README.md를 좀 더 쉽게 작성할 수 있도록</u>** 하기 위해 만들었어요.   
